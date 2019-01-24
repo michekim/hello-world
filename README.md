@@ -2,4 +2,4 @@
 Just another repository
 
 Hi there!
-New to coding and excited what's out there!
+New to coding and excited to learn what's out there!
